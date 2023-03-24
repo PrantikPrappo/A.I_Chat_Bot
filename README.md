@@ -1,8 +1,18 @@
-# 
+# A.I Chatbot App Using Flutter And Google Cloud API 
 
-This is an A.I Chat bot that can be desinged for any purpose ... 
+MPI is a A.I Chatbot for Communication and can be designed for any purpose ..
 
-This app can communicate with many users and handle requests
+## Installation
 
+Anyone Can Use this code in editor or simply compile this app
 
-This is just an example of A.I chat bot 
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[Prantik Paul](https://www.facebook.com/prantikprappoo)
